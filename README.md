@@ -1,1 +1,6 @@
 # tsplunk
+
+```console
+ENV SPLUNK_VERSION 7.1.0
+ENV SPLUNK_BUILD 2e75b3406c5b
+```
